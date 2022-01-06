@@ -1,5 +1,5 @@
 ### **Project Name**  
-Forecasting the amount of licenses given to new businesses in the city of chicago 
+Forecasting the amount of licenses given to new businesses in the city of Chicago 
 
 ## **The Goal**
 the Department of Business Affairs and Consumer Protection in the City of Chicago issuing licenses to businesses. In this project we want to fit a model for future projections of licenses issuing for better strategic preparations in advance. During 2020, due to a coronavirus outbarke, the economic activity significantly damaged, it was clearly seen in the data.this drastic changes makes the prediction more complicated and challenging. I added external data as features to help the models with prediction. Using the collected data I fitted 5 different ML algorithms and 1 DL algorithm to predict the amount of licenses given.  
