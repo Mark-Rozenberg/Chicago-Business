@@ -41,8 +41,11 @@ XGB was the most efficient predicting model with the lowest mean absolute and sq
 
 ## **Discussion**
 The following approaches could be taken to improve the forecasting:
-There are techniques to find the most appropriate AR and MA parameters for the ARIMA model. With some configuration of the SARIMAX model parameters the results can be improved
-The features can be weighted such that the models would be more balanced and had less impact from from drastic changes in one of the features
+  1. There are techniques to find the most appropriate AR and MA parameters for the ARIMA model. With some configuration of the SARIMAX model parameters the results can be improved  
+  2. The features can be weighted such that the models would be more balanced and had less impact from drastic changes in one of the features  
+  3. Add month dummies to better control seasonality  
+  4. Add year dummies to control between years variation
+
 
 ## **KeyWords**
 Forecasting, Prediction, Business licenses, small business incentives, Linear Regression, Random Forest Regressor, XGB Regressor, SARIMAX, Support Vector Regressor, LSTM, PyTorch
